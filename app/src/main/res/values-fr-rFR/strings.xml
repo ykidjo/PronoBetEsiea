@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="winner_text">Le PSG va gagner !!</string>
+    <string name="bet_btn">Pariez sur le psg</string>
+</resources>
